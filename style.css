@@ -1,0 +1,28 @@
+* {
+    border: solid 1px red;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    box-sizing: border-box;
+}
+header {
+    position: relative;
+    height: 80px;
+    background-color: green;
+    color: white;
+}
+header nav {
+
+}
+header nav ul li{
+    display: inline;
+    left: ;
+}
+#name {
+    color: navy;
+}
+
+footer {
+    background-color: forestgreen;
+    color: white;
+}
